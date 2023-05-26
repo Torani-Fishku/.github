@@ -6,8 +6,8 @@ Hello World! We're a team consist of 8 people from Bangkit Academy 2023 Batch 1.
 <details>
    <summary align="center">More Information</summary>
 
-## Our Teams
-Our teams are formed with three different divisions, each having distinct tasks. The Cloud Computing Division provides an API for data and facilitates the connection between the Machine Learning Division and the Mobile Development Division. The Machine Learning Division is responsible for providing models for price predictions and sales analytics.
+## Our Team
+Our team are formed with three different divisions, each having distinct tasks. The Cloud Computing Division provides an API for data and facilitates the connection between the Machine Learning Division and the Mobile Development Division. The Machine Learning Division is responsible for providing models for price predictions and sales analytics.
 
 ### Machine Learning Division
 | Bangkit ID | Name | Social Media |
