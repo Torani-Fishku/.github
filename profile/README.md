@@ -29,7 +29,7 @@ Our team are formed with three different divisions, each having distinct tasks. 
 |A181DSY1066|Sabyna Maharani|[LinkedIn](https://www.linkedin.com/in/sabyna-maharani/)  [Instagram](https://www.instagram.com/sabyn_/)  |
 |A368DSX1098|Yauw James Fang Dwiputra Harta|[LinkedIn](https://www.linkedin.com/in/jamesfangyauw/)  [Instagram](https://www.instagram.com/jamesfangyauw/)  |
   
-## Repository
+## Repositories
 
 ### Machine Learning
 1. 
