@@ -32,10 +32,10 @@ Our team are formed with three different divisions, each having distinct tasks. 
 ## Repositories
 
 ### Machine Learning
-1. 
+1. [torani-ml-codebase](https://github.com/Torani-Fishku/torani-ml-codebase). Machine learning codebase that includes jupyter notebook and cloud function.
 
 ### Cloud Computing
-1. 
+1. [torani-backend-app](https://github.com/Torani-Fishku/torani-backend-app). The backend side of Fishku Seller App that includes sea tides, price prediction, and other APIs.
 
 ### Mobile Development
 1. [torani-seller-app](https://github.com/Torani-Fishku/torani-seller-app). Fishku Seller App based on Android Platform with Kotlin.
